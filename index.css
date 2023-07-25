@@ -1,0 +1,46 @@
+.container {
+    margin: auto;
+    overflow: auto;
+    padding: 0 20px;
+    margin-top: 300px;
+  }
+  
+h1 {
+    color: goldenrod; 
+}
+
+body { 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    background: url("images/blackjack_game_background.jpeg");
+    background-size:cover; 
+    text-align: center; 
+    color: white; 
+    font-weight: bold;
+}
+
+#message-element { 
+    font-style: italic; 
+    color: white
+}
+
+#play-button { 
+    color: green;
+    width: 150px; 
+    background: goldenrod; 
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 2px; 
+}
+
+#newcard-button {
+    color: green;
+    width: 150px; 
+    background: goldenrod;
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 2px;  
+}
